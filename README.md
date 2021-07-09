@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Thuansg
 - 👀 I’m interested in ML
 - 🌱 I’m currently learning ML and IA
-- 💞️ I’m looking to collaborate on a electrical team
+- 💞️ I’m looking to collaborate on an electrical team
 - 📫 How to reach me ...
 
 <!---
